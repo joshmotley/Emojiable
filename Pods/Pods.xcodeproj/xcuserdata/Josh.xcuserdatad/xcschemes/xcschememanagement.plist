@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>JOEmojiableBtn-JOEmojiableBtn.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>JOEmojiableBtn.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Emoji.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>80DF8BC19D5B5BE0305786F376349D98</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E65F9AB9BE247231E5D3F6A891429230</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EEBA70A5D5E437DB9C0CBC5B9CA67A3B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

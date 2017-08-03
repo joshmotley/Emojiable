@@ -1,0 +1,12 @@
+PODS:
+  - JOEmojiableBtn (0.1.0)
+
+DEPENDENCIES:
+  - JOEmojiableBtn
+
+SPEC CHECKSUMS:
+  JOEmojiableBtn: 7e3ca82bbb6b909ffb1f2ba26d9ea4fdfb3aadd4
+
+PODFILE CHECKSUM: f8356bc8227e1cdcd1a0267aa6825ba17c392b3c
+
+COCOAPODS: 1.2.0

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0830"
+   LastUpgradeVersion = "0700"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "03F6E76F1F31486200659A92"
-               BuildableName = "Emoji.app"
-               BlueprintName = "Emoji"
-               ReferencedContainer = "container:Emoji.xcodeproj">
+               BlueprintIdentifier = "EEBA70A5D5E437DB9C0CBC5B9CA67A3B"
+               BuildableName = "Pods_Emoji.framework"
+               BlueprintName = "Pods-Emoji"
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -29,15 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "03F6E76F1F31486200659A92"
-            BuildableName = "Emoji.app"
-            BlueprintName = "Emoji"
-            ReferencedContainer = "container:Emoji.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -51,16 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "03F6E76F1F31486200659A92"
-            BuildableName = "Emoji.app"
-            BlueprintName = "Emoji"
-            ReferencedContainer = "container:Emoji.xcodeproj">
+            BlueprintIdentifier = "EEBA70A5D5E437DB9C0CBC5B9CA67A3B"
+            BuildableName = "Pods_Emoji.framework"
+            BlueprintName = "Pods-Emoji"
+            ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -70,16 +60,6 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "03F6E76F1F31486200659A92"
-            BuildableName = "Emoji.app"
-            BlueprintName = "Emoji"
-            ReferencedContainer = "container:Emoji.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
